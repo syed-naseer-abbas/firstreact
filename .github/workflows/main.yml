@@ -45,4 +45,4 @@ jobs:
     
     # Runs a set of commands using the runners shell
     - name: Deploy
-      run: surge ./ firstreact2020.surge.sh --token "0d399d2a4f583220729fa4e8ada65136"
+      run: surge ./ first2020.surge.sh --token "0d399d2a4f583220729fa4e8ada65136"
